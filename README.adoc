@@ -56,3 +56,10 @@ Now you can build the presentation and publish it to GitHub Pages using:
 
 The files in the [.path]_dist_ directory end up in the `gh-pages` branch in the repository on GitHub.
 From there, they can be viewed in a browser from anywhere on the web.
+
+
+== Gulp Version
+
+Make sure to install gulp version before 4.0.0
+
+$ npm install gulp@3.9.0
