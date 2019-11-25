@@ -24,36 +24,36 @@
     <div class="container">
       <p id="level" >Level : </p>
       <div class="flex-container">
-          <p id="div-move" class="move-goal">
+          <div id="div-move" class="move-goal">
               Move : 0
-          </p>
-          <p id="div-goal" class="move-goal">
+          </div>
+          <div id="div-goal" class="move-goal">
               Goal : 0
-          </p>
+          </div>
       </div>
-      <div class="box">
+      <div id="result" class="box">
         0
       </div>
       <div class="flex-container-main">
         <div class="flex-container">
-          <div id="button1" class="button">
+          <div id="button1" class="button" onclick="chance(but1.value)">
             0
           </div>
-          <div id="button2" class="button">
+          <div id="button2" class="button" onclick="chance(but2.value)">
             1
           </div>
-          <div id="button3" class="button">
+          <div id="button3" class="button" onclick="chance(but3.value)">
             2
           </div>
         </div>
         <div class="flex-container">
-          <div id="button4" class="button">
+          <div id="button4" class="button" onclick="chance(but4.value)">
             0
           </div>
-          <div id="button5" class="button">
+          <div id="button5" class="button" onclick="chance(but5.value)">
             1
           </div>
-          <div id="button6" class="button">
+          <div id="button6" class="button" onclick="chance(but6.value)">
             2
           </div>
         </div>
@@ -133,6 +133,6 @@
 </article>
 
 <script src="build/build.js"></script>
-
+<script src="build/calculationFunction.js"></script>
 </body>
 </html>
