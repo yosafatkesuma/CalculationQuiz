@@ -1,0 +1,78 @@
+ul{
+    list-style-type: none;
+}
+
+.container{
+    background-color: lightgoldenrodyellow;
+    width: 40%;
+    height: auto;
+    padding: 1%;
+}
+
+.container:before, .container:after, div.row.right:before, div.row.right:after, div.row.left:before, div.row.left:after, .box:before, .box:after{
+    content: " ";
+    display: table;
+}
+
+.container:after{
+    clear: both;
+}
+
+.col{
+    text-align: center;
+    float: left;
+}
+
+.flex-container-main{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: right;
+    /* align-content: center; */
+}
+  
+.flex-container > .div {
+    background-color: #f1f1f1;
+    width: 25%;
+    margin: 10px;
+    text-align: center;
+}
+
+.flex-container > .move-goal{
+    margin: 0 5%;
+    padding: 2% 5%;
+    background-color: antiquewhite;
+}
+
+.flex-container > .button{
+    user-select: none;
+    width: 30%;
+    margin: 2% 5%;
+    padding: 2% 5%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.flex-container > .button:hover{
+    background-color: grey;
+    transition-delay: 50ms;
+}
+
+.box{
+    padding: 1% 5%;
+    margin: 2% auto 0 auto;
+    background-color:lightblue;
+    width: 90%;
+    height: auto;
+}
+
+.pad{
+    padding-left: 5%;
+    padding-right: 5%;
+}
