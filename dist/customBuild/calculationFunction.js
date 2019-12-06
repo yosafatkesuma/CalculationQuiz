@@ -1,3 +1,31 @@
+
+function intervalTime(){
+    counter.end = 10;
+    counter.min = document.getElementById("cd-min");
+    counter.sec = document.getElementById("cd-sec");
+    
+    if (counter.end > 0) {
+        counter.ticker = setInterval(function(){
+        
+        counter.end--;
+        if (counter.end <= 0) { 
+            clearInterval(counter.ticker); 
+            counter.end = 0;
+        }
+        var secs = counter.end;
+        var mins  = Math.floor(secs / 60);
+        secs -= mins * 60;
+
+        counter.min.innerHTML = mins;
+        counter.sec.innerHTML = secs;
+        }, 1000);
+    }
+}
+function timer(){
+    intervalTime()
+    return setTimeout(function(){ console.log("Time out")}, 10000)
+}
+
 function getId(id){
     return document.getElementById(id)
 }
@@ -65,6 +93,7 @@ function chance (buts) {
     }
 }
 
+var counter = {};
 var tempMove = 0
 var tempResult = 0
 var tempGoal = 0
