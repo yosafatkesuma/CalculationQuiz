@@ -35,6 +35,16 @@ ul{
     justify-content: right;
     /* align-content: center; */
 }
+
+.timerBox{
+    width: 10%;
+    padding: 1.5%;
+    background-color: blue;
+}
+
+.timerBox > .flex-container{
+    color: white;
+}
   
 .flex-container > .div {
     background-color: #f1f1f1;

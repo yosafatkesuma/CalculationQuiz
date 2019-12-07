@@ -21,18 +21,14 @@
     </ul>
   </section>
   <section>
-    <div class="container">
-        <div class="countdown">
-            <div class="square">
-              <div class="digits" id="cd-min">00</div>
-              <div class="text">MINUTES</div>
-            </div>
-            <div class="square">
-              <div class="digits" id="cd-sec">00</div>
-              <div class="text">SECONDS</div>
-            </div>
-          </div>
-      <button onclick="timer()">Time</button>
+    <div id="timers" class="timerBox">
+      <div class="flex-container">
+        <div id="cd-min">0</div>m:
+        <div id="cd-sec">0</div>s
+      </div>
+    </div>
+    <button id="start-button" onclick="timer()">Time</button>
+    <div id="calculator-quiz" class="container">
       <p id="level" >Level : </p>
       <div class="flex-container">
           <div id="div-move" class="move-goal">
