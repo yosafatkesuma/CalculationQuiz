@@ -4,18 +4,14 @@ function release(){
 	if(b==0){
 		b=1;
 		a.src="images/Earth Explode.gif";
-		setTimeout(show,3000);
+		setTimeout(show,4000);
 	}
 	
 }
 function show(){
-	a = document.getElementById("explode")
-	a.src="images/Explode.gif"; 
-	a.style.visibility="visible";
 	document.getElementById("earth").src="images/space.jpg";
 	setTimeout(function()
 		{
-			a.style.visibility="hidden";
 			setTimeout(function()
 				{
 					document.getElementById("reset").style.visibility="visible";
