@@ -1,0 +1,58 @@
+.image1{
+	width: 75%;
+	height: 100%;
+}
+.image > .earth{
+	margin: 0 auto;
+	width: 50%;
+	left: 10%;	
+}
+
+.image > .explode{
+	margin: 0 auto;
+	width: 50%;
+	height: 50%;
+	left: 13%;
+	visibility: hidden;
+}
+
+.image{
+	text-align: center;
+	margin: 0 auto;
+	width: 100%;
+	height: 100%;
+}
+
+.container-section3{
+	width: 50%;
+	margin: 0 auto;
+	height: 100%; 
+}
+
+.container-section3 > .button{
+	width: 10%;
+	height: 18%;
+	background-image: radial-gradient(red,black);
+	border-radius: 100%;
+	margin: 0 auto ;
+	border: 5px solid black;
+}
+
+.container-section3 > .button:active{
+	background-image: radial-gradient(#990000,#000000);
+	border: 5px solid red;
+}
+.container-section3 > h1{
+	text-align: center;	
+	color: 	red;
+	font-size: 	20pt;
+	margin: 10px 0;
+}
+
+.container-section3 > .reset{
+	margin: 0 auto;
+	display: block;
+	width: 75px;
+	visibility: hidden;
+	clear: both;
+}

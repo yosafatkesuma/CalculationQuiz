@@ -6,7 +6,11 @@
   <title>&#34;Calculation Quiz&#34;</title>
   <link rel="stylesheet" type="text/css" href="build/build.css">
   <link rel="stylesheet" type="text/css" href="customBuild/custom.css">
+<<<<<<< HEAD
   <link rel="stylesheet" type="text/css" href="customBuild/basicCalc.css">
+=======
+  <link rel="stylesheet" href="customBuild/Don't Press.css">
+>>>>>>> slide-layout2
   <!-- <link rel="stylesheet" type="text/css" href="build/bootstrap.min.css"> -->
 </head>
 <body>
@@ -68,7 +72,16 @@
       </div>
     </div>
   </section>
-
+  <section>
+      <div class="image">
+        <img src="images/Earth Explode.jpg" class="earth" id="earth">
+      </div>
+      <div class="container-section3">
+        <h1>DO NOT PRESS!!!!</h1>
+        <div class="button" onclick="release()"></div>
+        <button class="reset" id="reset" onclick="resetAll()">Reset</button>
+      </div>
+  </section>
   <section>
     <div id='calc-contain'>
       <form name="calculator">
@@ -165,5 +178,6 @@
 
 <script src="build/build.js"></script>
 <script src="customBuild/calculationFunction.js"></script>
+<script src="customBuild/Don't Press.js"></script>
 </body>
 </html>
