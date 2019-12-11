@@ -10,7 +10,7 @@ function release(){
 }
 function show(){
 	a = document.getElementById("explode")
-
+	a.src="images/Explode.gif"; 
 	a.style.visibility="visible";
 	document.getElementById("earth").src="images/space.jpg";
 	setTimeout(function()

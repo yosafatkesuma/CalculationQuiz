@@ -1,34 +1,45 @@
+
+body{
+	height: 1000px;
+}
 .image1{
-	width: 400px;
-	height: 400px;
+	width: 100%;
+	height: 100%;
 	
 	position: relative;
 }
+.earth{
+	position: absolute;
+	width: 80%;
+	left: 10%;
+	
+}
 .explode{
-	top:-368px;
-	width: 250px;
-	height: 250px;	
-	left: 68px;
+	width: 75%;
+	height: 75%;
+	left: 13%;
+	position: absolute;
 	visibility: hidden;
 }
-
 .image{
 	margin: 0 auto;
-	width: 400px;
+	width: 27%;
+	height: 30%;
+	position: relative;
 
 }
-.container{
-	width: 500px;
+.container2{
+	width: 50%;
 	margin: 0 auto;
-	top: -250px;
-	position: relative;
+	height: 100%; 
+
 }
 .button{
-	width: 100px;
-	height: 100px;
+	width: 8%;
+	height: 100%;
 	background-image: radial-gradient(red,black);
 	border-radius: 100px;
-	margin: 50px auto ;
+	margin: 0 auto ;
 	border: 10px solid black;
 }
 .button:active{
@@ -46,4 +57,5 @@ h1{
 	display: block;
 	width: 75px;
 	visibility: hidden;
+	clear: both;
 }
