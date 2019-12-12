@@ -1,0 +1,27 @@
+18 November 2019
+Tommy Felix
+1.  Hari ini kerjakan apa?
+     ans : pembuatan akun github dan clone project
+2. Ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada
+
+24 November 2019
+Tommy Felix
+1.  Hari ini kerjakan apa?
+     ans : melakukan pendesignan calculator biasa
+2. Ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada
+
+1 Desember 2019
+Tommy Felix
+1.  Hari ini kerjakan apa?
+     ans : memberikan function (bukan script) ke dalam html
+2. Ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada
+
+7 Desember 2019
+Tommy Felix
+1.  Hari ini kerjakan apa?
+     ans : melanjutkan memberikan function ke dalam html dan push ke github
+2. Ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada

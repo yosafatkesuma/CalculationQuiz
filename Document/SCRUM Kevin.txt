@@ -1,0 +1,36 @@
+29 november 2019
+Kevin
+1.  hari ini kerjakan apa?
+     ans : pembuatan akun github, clone project dan penambahan branch
+2. ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada
+
+5 desember 2019
+Kevin
+1.  hari ini kerjakan apa?
+     ans : mendesain layout pada section 3
+2. ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada
+
+6 desember 2019
+Kevin
+1.  hari ini kerjakan apa?
+     ans : memberikan fungsi untuk section 3 dan push ke github
+2. ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada
+
+9 desember 2019
+Kevin
+1.  hari ini kerjakan apa?
+     ans : membuat size gambar agar lebih responsive
+2. ada masalahkah dalam pengerjaan tugas?
+     ans : tidak ada
+
+11 desember 2019
+Kevin
+1.  hari ini kerjakan apa?
+     ans : membuat size gambar agar lebih responsive
+2. ada masalahkah dalam pengerjaan tugas?
+     ans : peresponsiveman tidak dapat sesuai diinginkan
+3. solusi untuk masalah tersebut
+     ans : masalah tersebut akan dilesaikan oleh yosafat

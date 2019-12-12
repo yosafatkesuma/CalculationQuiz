@@ -1,0 +1,66 @@
+13 November 2019
+Yosafat Kesuma
+1.  Hari ini kerjakan apa?
+     ans : yosafat buat project baru dan push ke gitlab
+2. Ada masalahkah dalam pengerjaan tugas?
+     ans : versi gulp terbaru tidak dapat dijalankan
+3. Solusi untuk masalah pengerjaan tugas
+     ans : menggantikan versi gulp ke v3.9.0
+
+21, 22 November 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : penambahan button pada section calculator quiz
+2. Ada masalah dalam pengerjaan tugas?
+    ans : tidak ada
+
+23 November 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : penambahan warna ke section calculator quiz
+2. Ada masalah dalam pengerjaan tugas?
+    ans : tidak ada
+
+25 November 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : memberikan function kedalam calculator quiz dan merge ke branch master dari branch layout
+2. Ada masalah dalam pengerjaan tugas?
+    ans : tidak ada
+
+28 November 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : memindahkan custom build css dan js ke dalam new folder, menggantikan isi gitignore dan merge layout ke master
+2. Ada masalah dalam pengerjaan tugas?
+    ans : tidak ada
+
+29 November 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : menambahkan nodejs version pada readme.adoc
+2. Ada masalah dalam pengerjaan tugas?
+    ans : tidak ada
+
+6 Desember 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : menambahkan timer pada calculator quiz
+2. Ada masalah dalam pengerjaan tugas?
+    ans : penggunaan setinterval dan settimeout
+3. Solusi untuk masalah tersebut
+    ans : mempelajari dengan baik setinterval dan settimeout
+
+7 Desember 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : melanjutkan timer (settimeout dan setinterval) dan merge normal-calculator ke master
+2. Ada masalah dalam pengerjaan tugas?
+    ans : tidak ada
+
+11 Desember 2019
+Yosafat Kesuma
+1. Hari ini kerjakan apa?
+    ans : menyelesaikan masalah dari tugas yang diberikan Kevin
+2. Ada masalah dalam pengerjaan tugas?
+    ans : tidak ada
